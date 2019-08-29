@@ -1,0 +1,420 @@
+price - - B-FINANCIAL
+prediction - - B-CONCEPT
+for - - O
+$ - - O
+amd - - B-ORG
+. - - O
+
+jd - - B-ORG
+. - - O
+
+% - - O
+E7%BE%8E%E8%82%A1.%E7%89%B9%E6%96%AF%E6%8B%89 - - O
+. - - O
+
+What - - O
+stock - - B-FINANCIAL
+will - - O
+do - - O
+good - - B-CONCEPT
+today - - O
+. - - O
+
+Att - - B-ORG
+. - - O
+
+Tell - - O
+me - - B-PER
+what - - O
+is - - O
+in - - O
+play - - B-MISC
+today - - O
+. - - O
+
+Vstm - - B-ORG
+. - - O
+
+your - - O
+are - - O
+pet - - O
+. - - O
+
+Alibaba - - B-ORG
+. - - O
+
+Monthly - - B-CONCEPT
+low - - B-CONCEPT
+BB - - B-FINANCIAL
+band - - I-FINANCIAL
+. - - O
+
+day - - B-FINANCIAL
+trading - - I-FINANCIAL
+. - - O
+
+When - - O
+to - - O
+buy - - O
+now - - B-CONCEPT
+? - - O
+? - - O
+. - - O
+
+Bullish - - B-FINANCIAL
+. - - O
+
+Can - - O
+you - - B-PER
+analyze - - B-CONCEPT
+apple - - B-ORG
+stock - - B-FINANCIAL
+. - - O
+
+Is - - O
+AMZN - - B-ORG
+a - - O
+buy - - B-CONCEPT
+. - - O
+
+play - - O
+. - - O
+
+The - - O
+market - - B-FINANCIAL
+value - - I-FINANCIAL
+is - - O
+greater - - O
+than - - O
+10 - - O
+billion - - O
+US - - O
+dollars - - O
+  - - O
+the - - O
+price - - O
+- - - B-FINANCIAL
+earnings - - I-FINANCIAL
+ratio - - I-FINANCIAL
+is - - I-FINANCIAL
+less - - O
+than - - O
+25%3B - - O
+the - - O
+stock - - O
+with - - O
+a - - O
+return - - O
+on - - B-CONCEPT
+net - - O
+assets - - O
+of - - B-FINANCIAL
+more - - O
+than - - B-FINANCIAL
+20%25 - - I-FINANCIAL
+for - - O
+10 - - O
+consecutive - - O
+years - - O
+. - - O
+
+Help - - O
+me - - B-PER
+analyze - - B-CONCEPT
+Cisco - - B-ORG
+stock - - B-FINANCIAL
+. - - O
+
+what - - O
+'s - - O
+your - - O
+name - - O
+. - - O
+
+atai - - O
+. - - O
+
+Woerma - - B-ORG
+. - - O
+
+tesla - - B-ORG
+price - - B-FINANCIAL
+. - - O
+
+How - - O
+to - - O
+discover - - O
+volume - - B-FINANCIAL
+stocks - - B-FINANCIAL
+. - - O
+
+best - - O
+puts - - B-FINANCIAL
+. - - O
+
+FVRR - - B-ORG
+. - - O
+
+Vwap - - B-FINANCIAL
+value - - B-CONCEPT
+zero - - O
+. - - O
+
+Tesla - - B-ORG
+prediction - - B-CONCEPT
+. - - O
+
+blackberry - - B-ORG
+. - - O
+
+stx - - B-ORG
+. - - O
+
+Which - - O
+better - - O
+. - - O
+
+$ - - O
+COLL - - B-ORG
+PT - - O
+20 - - O
+. - - O
+
+Pacb - - B-ORG
+. - - O
+
+Ua - - B-ORG
+. - - O
+
+What - - O
+stocks - - B-FINANCIAL
+will - - O
+be - - O
+up - - O
+. - - O
+
+vz - - B-ORG
+. - - O
+
+P%2FE - - B-FINANCIAL
+less - - O
+than - - O
+5 - - O
+. - - O
+
+Elon - - B-PER
+musk - - I-PER
+companies - - O
+. - - B-CONCEPT
+
+How - - O
+to - - O
+trade - - O
+aveo - - B-ORG
+. - - O
+
+Khc - - B-ORG
+. - - O
+
+Will - - O
+ANF - - B-ORG
+continue - - O
+to - - O
+decline - - O
+. - - O
+
+Azul - - B-ORG
+. - - O
+
+intc - - B-ORG
+. - - O
+
+Beyond - - B-ORG
+meat - - I-ORG
+. - - O
+
+Is - - O
+NSE - - B-FINANCIAL
+open - - B-CONCEPT
+today - - O
+? - - O
+. - - O
+
+GOLD - - B-FINANCIAL
+. - - O
+
+Twtr - - B-ORG
+buy - - B-CONCEPT
+now - - O
+? - - O
+. - - O
+
+Pvtl - - B-ORG
+. - - O
+
+arwr - - B-ORG
+. - - O
+
+Btc - - B-ORG
+. - - O
+
+japan - - B-LOC
+. - - O
+
+Any - - O
+news - - B-MISC
+on - - O
+Avon - - B-ORG
+acquisition - - B-CONCEPT
+yet - - O
+? - - O
+. - - O
+
+GOOGLE - - B-ORG
+. - - O
+
+what - - O
+can - - O
+you - - O
+do - - O
+for - - O
+me - - O
+? - - O
+. - - O
+
+txn - - B-ORG
+. - - O
+
+orange - - O
+. - - O
+
+Best - - O
+marijuana - - B-CONCEPT
+Penney - - B-CONCEPT
+stock - - I-CONCEPT
+. - - O
+
+Lyft - - B-ORG
+. - - O
+
+How - - O
+much - - O
+am - - O
+I - - B-PER
+worth - - B-FINANCIAL
+. - - O
+
+HK - - B-LOC
+analysis - - B-CONCEPT
+. - - O
+
+Who - - O
+are - - O
+u. - - O
+
+baba - - B-ORG
+last - - O
+year - - O
+'s - - O
+net - - B-FINANCIAL
+income - - I-FINANCIAL
+. - - O
+
+Will - - O
+upl - - B-FINANCIAL
+price - - B-FINANCIAL
+rise%3F. - - O
+
+? - - O
+. - - O
+
+Which - - O
+one - - O
+to - - O
+buy - - B-CONCEPT
+. - - O
+
+What - - O
+stocks - - O
+should - - O
+I - - O
+buy - - B-CONCEPT
+now - - O
+.. - - O
+
+Apha - - B-ORG
+. - - O
+
+Square - - B-ORG
+. - - O
+
+gild - - B-ORG
+. - - O
+
+FIT - - B-ORG
+. - - O
+
+What - - O
+can - - O
+u - - O
+do - - O
+. - - O
+
+which - - O
+one - - O
+to - - O
+buy - - B-CONCEPT
+. - - O
+
+How - - O
+is - - O
+ACB - - B-ORG
+going - - O
+to - - O
+do - - O
+today - - O
+. - - O
+
+BITCOIN - - B-FINANCIAL
+. - - O
+
+Wmt - - B-ORG
+. - - O
+
+Ttnp - - B-ORG
+. - - O
+
+Could - - O
+you - - O
+find - - O
+info - - O
+about - - O
+dollars - - B-FINANCIAL
+? - - O
+. - - O
+
+Pe - - B-FINANCIAL
+is - - O
+more - - O
+than - - O
+5 - - O
+. - - O
+
+Bynd - - B-ORG
+. - - O
+
+bye - - O
+. - - O
+
+AAPL - - B-ORG
+RSI - - B-FINANCIAL
+oversold - - B-FINANCIAL
+. - - O
+
+Stock - - B-FINANCIAL
+recommendations - - B-CONCEPT
+. - - O
+
+hello - - O
+. - - O
+
