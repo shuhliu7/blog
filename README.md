@@ -5,13 +5,8 @@ my engineering blog starts here... enjoy
 share my personal project and understanding of technology here
 
 ## table of content
-- ner project by using spacy  [ner](www.google.com)
-- bert
+- ner project by using spacy[ner](www.google.com)
+- [bert](www.google.com)
 
 
 
-
-```python
-def class:
-    sdfsad
-```
