@@ -5,7 +5,7 @@ my engineering blog starts here... enjoy
 share my personal project and understanding of technology here
 
 ## table of content
-- [ner project by using spacy](www.google.com)
+- [ner project by using spacy](https://github.com/shuhliu7/blog/tree/master/ner)
 - [bert](https://github.com/shuhliu7/blog/blob/master/Bert.md)
 
 
