@@ -345,8 +345,8 @@ if __name__ == "__main__":
     dirName = 'output.json'
     dic_path = 'data/my_dict.json'  # the path saved data in dictionary
     # read in the unclean data and save it in dic_path
-    #data = json_to_trainlist(nerd_file)
-    #save_unclean_data(dic_path,data)
+    data = json_to_trainlist(nerd_file)
+    save_unclean_data(dic_path,data)
     nerd_path ="data/my_dict.json"
     data = read_in_new(nerd_path)
     # data already shuffled in read_in_new function
@@ -360,4 +360,3 @@ if __name__ == "__main__":
         #print("Tokens", [(t.text, t.ent_type_, t.ent_iob) for t in doc])
         x = input("test sentence:")
     
-   
