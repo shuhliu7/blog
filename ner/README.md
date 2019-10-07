@@ -70,7 +70,7 @@ the proportion of train data, dev data and test data is 8:1:1
       <th>100</th>
       <th>100</th>
       <th>100</th>
-      <td>9</td>
+      <th>9</td>
     </tr>
   </tbody>
 </table>
