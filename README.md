@@ -1,12 +1,12 @@
 # Shuhao's Blog
 my engineering blog starts here... enjoy
 
-## getting start
+## Getting start
 share my personal project and understanding of technology here
 
-## table of content
+## Table of content
 - [ner project by using spacy](https://github.com/shuhliu7/blog/tree/master/ner)
-- [bert](https://github.com/shuhliu7/blog/blob/master/Bert.md)
-
+- [bert](https://github.com/shuhliu7/blog/tree/master/Bert)
+- [web-scraping](https://github.com/shuhliu7/blog/tree/master/web-scraping)
 
 
